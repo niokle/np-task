@@ -18,7 +18,6 @@ public class OpenFileTest {
         pw.println("Cezary,Los,1981-06-01,");
         pw.close();
         String path = file.getPath();
-        //String path = OpenFileTest.class.getResource("input.txt").getPath();
         OpenFile openFile = new OpenFile(path);
 
         //when
