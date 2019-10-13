@@ -1,0 +1,6 @@
+Adam,Kowalski,1974-09-17,+48123456789
+Bartosz,Nowak,1978-03-12,+48987654321
+Cezary,Tez,1981-06-02,+44123456789
+Adam,Zaorski,1974-09-16,
+Bartosz,Wax,1978-03-11,
+Cezary,Los,1981-06-01,
